@@ -1,0 +1,2 @@
+click==4.1
+xmpppy==0.5.0rc1
